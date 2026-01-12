@@ -36,6 +36,6 @@ A modern, responsive e-commerce application built with React. This project demon
 
 **Sahil Sharma**
 
--   Website: [https://sahilsharmablogs.in/]
+-   Website: [https://sahilsharmablogs.in/](https://sahilsharmablogs.in/)
 
 ---
